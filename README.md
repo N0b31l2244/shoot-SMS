@@ -1,2 +1,6 @@
-# shoot-SMS
-this repository for spam sms for fun
+# n0b31lSMS
+how to use
+download this project
+go to repilt
+past code
+done ;D
